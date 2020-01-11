@@ -1,0 +1,18 @@
+123456
+abcdef
+666666
+ssh-keygen -t rsa –C "842342650@qq.com"
+ssh-keygen -t rsa -C "842342650@qq.com"
+
+
+
+git remote add origin git@github.com:Cyrilzw/hello_zw.git
+
+git push -u origin master
+
+git clone https://github.com/Cyrilzw/hello_zw.git
+
+git clone git@github.com:Cyrilzw/hello_zw.git
+
+git remote add origin https://github.com/Cyrilzw/hello_zw.git
+
